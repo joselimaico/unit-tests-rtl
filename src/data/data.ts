@@ -1,0 +1,1 @@
+export const NAMES = ['Francisco','Jossue','Chezz','Luis','Dubal','Jhon','Adri','Alberto','Mario']
